@@ -32,8 +32,8 @@ registrar_usuario("Mateo", "mateo@heaven.com")
 
 ```
 
-- [👎 Anti-ejemplo (monolito en un archivo)] ejemplos/monolitico/app.py)  
-- [👍 Ejemplo modularizado] ejemplos/modular_bien/user_service.py)
+- [👎 Anti-ejemplo (monolito en un archivo)](ejemplos/monolitico/app.py)  
+- [👍 Ejemplo modularizado](ejemplos/modular_bien/user_service.py)
 
 ---
 
@@ -62,8 +62,8 @@ registrar_usuario("Marcos", "marcos@heaven.com")
 ```
 
 
-- [👎 Anti-ejemplo (módulos acoplados)] ejemplos/modular_mal/app.py)  
-- [👍 Ejemplo modular correcto] ejemplos/modular_bien/app.py)  
+- [👎 Anti-ejemplo (módulos acoplados)](ejemplos/modular_mal/app.py)  
+- [👍 Ejemplo modular correcto](ejemplos/modular_bien/app.py)  
 
 ---
 
@@ -99,8 +99,8 @@ email_service.send(usuario.email, "Bienvenida a la app hexagonal!")
 ```
 
 
-- [👎 Anti-ejemplo (dependencia directa de infraestructura)] ejemplos/hexagonal_mal/app.py)  
-- [👍 Ejemplo con puertos y adaptadores] ejemplos/hexagonal_bien/main.py)  
+- ![👎 Anti-ejemplo (dependencia directa de infraestructura)](ejemplos/hexagonal_mal/app.py)  
+- [👍 Ejemplo con puertos y adaptadores](ejemplos/hexagonal_bien/main.py)  
 
 ## Diagrama de Arquitectura Hexagonal
 
@@ -154,7 +154,8 @@ Piensa en una **cebolla con capas**:
 
 ## ¿Qué es Domain-Driven Design (DDD)?
 - Es una forma de **pensar el software desde el negocio**, no desde la tecnología.  
-- Se centra en el **“lenguaje ubicuo”**: usar las mismas palabras que usan los expertos del dominio (ej: “pedido”, “factura”, “cliente”).  
+- Se centra en el **“lenguaje ubicuo”**: usar las mismas palabras que usan los expertos del dominio 
+(ej: “pedido”, “factura”, “cliente”).  
 
 - DDD propone:  
   - **Entidades:** objetos con identidad (ej: Usuario, Pedido).  
