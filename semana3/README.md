@@ -37,11 +37,11 @@ En un restaurante ¿Quienes o que cumple los sigueintes conceptos? :
 2. **Bajo acoplamiento:** que una parte dependa lo menos posible de los detalles de otra.  
 3. **Alta cohesión:** que las funciones relacionadas estén en el mismo lugar.  
 
-![Ciclo Vida](ciclo_vida.png)
+![Ciclo Vida](ciclo_vida.PNG)
 
 ### El diseño del sistema se puede dividir en dos partes complementarias
 
-![LLD - HLD ](niveles.png)
+![LLD - HLD ](niveles.PNG)
 
 ### Diseño de alto nivel (HLD)
 Describe la arquitectura general del sistema: cómo interactúan los componentes principales, qué servicios o módulos existirán y cómo fluyen los datos entre ellos.
@@ -102,4 +102,5 @@ Cubre cómo funciona cada parte y se implementa internamente.
 ### LLD:
 - --> **Casos de Uso**
 - --> **Diagrama de secuencia**
+
 
