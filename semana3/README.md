@@ -1,6 +1,5 @@
 # Semana 3: Patrón MVC, Principios de Diseño
 
-
 ### ¿Qué es MVC?
 - **Modelo (M):** Representa los **datos** y reglas del negocio.  
 - **Vista (V):** Es la **interfaz** con el usuario (puede ser consola, web o móvil).  
