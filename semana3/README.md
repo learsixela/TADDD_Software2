@@ -79,8 +79,6 @@ Cubre cómo funciona cada parte y se implementa internamente.
 - **Patrones de diseño y SOLID :** Implemente patrones de diseño y principios sólidos para garantizar un código limpio, extensible y mantenible.
 - **Artefactos UML y pseudocódigo :** diagramas de clases, diagramas de secuencia, pseudocódigo o diagramas de flujo para aclarar rutas lógicas y llamadas a métodos
 
-
-https://www.geeksforgeeks.org/system-design/getting-started-with-system-design/
 ---
 
 ## Desafio Evaluado
@@ -91,5 +89,17 @@ https://www.geeksforgeeks.org/system-design/getting-started-with-system-design/
 2. Aplicar lo viste en las 3 semanas.
 3. Preparar presentación.
 
+---
 
+## Login 
+
+### HLD
+- --> **resolucion:** desktop y mobile
+- --> **codigo:** aplicar arquitectura hexagonal, SOLID, MVC  
+- --> **diseño web (no figma):** aplicar arquitectura hexagonal o architectura clean a css
+- --> **base datos:** ERD y datos encriptados. 
+
+### LLD:
+- --> **Casos de Uso**
+- --> **Diagrama de secuencia**
 
