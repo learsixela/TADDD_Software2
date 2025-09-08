@@ -26,7 +26,7 @@ Categorías:
 
 ### 2.- Estructurales
 **Adapter**  
-- Problema: conectar clases incompatibles.  
+- Problema: conectar clases incompatibles..  
 - Uso moderno: en **Arquitectura Hexagonal**, los adaptadores conectan puertos con infraestructuras.  
 
 - [Ver código](ejemplos/adapter.py)
